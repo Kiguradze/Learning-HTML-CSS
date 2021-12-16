@@ -1,0 +1,521 @@
+@media screen and (max-width: 768px) {
+  .promo {
+    height: auto;
+  }
+
+  .container {
+    width: 100%;
+    padding: 0 1.5rem;
+  }
+
+  .info-section {
+    margin: auto auto 2rem auto;
+  }
+
+  .nav-container {
+    gap: 4.5rem;
+  }
+
+  .left-nav img {
+    width: 4.5rem;
+  }
+
+  .nav-title {
+    font-size: 1.8rem;
+  }
+
+  .nav-btn {
+    padding: 0.8rem 1.5rem;
+    font-size: 1.2rem;
+  }
+
+  .search {
+    padding: 0.2rem;
+  }
+
+  .nav-links {
+    font-size: 1.2rem;
+    gap: 1.5rem;
+  }
+
+  .navigations .container {
+    margin-bottom: 0;
+  }
+
+  .info-section {
+    margin: auto auto 2rem auto;
+  }
+
+  .info-section .container {
+    gap: 2rem;
+  }
+
+  .subheading {
+    font-size: 1.8rem;
+  }
+
+  .section-heading {
+    font-size: 3.2rem;
+    width: 100%;
+  }
+
+  .btn {
+    padding: 1rem;
+    font-size: 1.2rem;
+  }
+
+  .right-section img {
+    width: 25rem;
+  }
+
+  .add {
+    margin: 0 0 8rem 0;
+  }
+
+  .add .container {
+    height: auto;
+    gap: 0;
+    border-radius: 0;
+  }
+
+  .success img {
+    width: 10rem;
+  }
+
+  .success-text {
+    font-size: 2rem;
+  }
+
+  .time {
+    font-size: 4rem;
+  }
+
+  .date {
+    font-size: 1.2rem;
+  }
+
+  .countdown-timer span {
+    font-size: 2rem;
+  }
+
+  .heading {
+    font-size: 3.2rem;
+  }
+
+  .top-container {
+    gap: 2rem;
+  }
+
+  .top-container:last-child {
+    justify-content: center;
+  }
+
+  .top-1 {
+    width: 48%;
+  }
+
+  .section-3 .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8rem;
+  }
+
+  .feedback-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: auto;
+    gap: 2rem;
+  }
+
+  .section-stats .container {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2rem;
+  }
+
+  .section-item {
+    width: 50%;
+  }
+
+  .section-item img {
+    width: 70%;
+  }
+
+  .section-item-number {
+    font-size: 4rem;
+    margin-top: -5rem;
+  }
+
+  .section-item-desk {
+    font-size: 1.2rem;
+  }
+
+  .section-subscribe .container {
+    height: auto;
+    gap: 2rem;
+    padding: 4rem 2rem;
+  }
+
+  .searching-logo {
+    width: 30%;
+  }
+
+  .subscrible {
+    height: auto;
+    width: 70%;
+  }
+
+  .subscrible h1 {
+    font-size: 2.4rem;
+    line-height: 2rem;
+  }
+
+  .mail-box {
+    width: 100%;
+  }
+
+  .subscribe-btn {
+    font-size: 1.2rem;
+    padding: 1.5rem 0;
+    width: 50%;
+  }
+
+  .edu img {
+    width: 15%;
+  }
+
+  .edu h1 {
+    font-size: 1.8rem;
+  }
+
+  .info-address {
+    gap: 1.8rem;
+  }
+
+  .address a {
+    font-size: 1.2rem;
+  }
+
+  .about-section {
+    gap: 5rem;
+  }
+
+  .about-section h2 {
+    font-size: 1.6rem;
+  }
+
+  .box {
+    font-size: 1.2rem;
+    line-height: 2.4rem;
+  }
+
+  footer .container {
+    padding: 0;
+  }
+
+  .copyrights {
+    padding: 2rem 3.6rem;
+    border-radius: 0;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .container {
+    width: 100%;
+    padding: 0 1.5rem;
+  }
+
+  .header-flexcont {
+    display: flex;
+    justify-content: space-between;
+    height: auto;
+    align-items: center;
+    padding: 0.5rem;
+  }
+
+  .header-container {
+    font-size: 1.2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+  }
+
+  .header-logos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.2rem;
+  }
+
+  .navigations .container {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .nav-container {
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 2.5rem;
+  }
+
+  .nav-links {
+    gap: 3.5rem;
+  }
+
+  .info-section .container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .left-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .section-heading {
+    font-size: 1.8rem;
+    text-align: center;
+  }
+
+  .success {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .success-text {
+    font-size: 1.2rem;
+  }
+
+  .time {
+    font-size: 2rem;
+  }
+
+  .date {
+    font-size: 0.8rem;
+  }
+
+  .countdown-timer {
+    justify-content: center;
+  }
+
+  .countdown-timer span {
+    font-size: 0.8rem;
+    margin: 1rem 1rem 2rem 1rem;
+  }
+
+  .top-section .container {
+    padding: 0 1.5rem;
+  }
+
+  .heading {
+    font-size: 2.4rem;
+  }
+
+  .top-1 {
+    width: 100%;
+  }
+
+  .top-1 h3 {
+    font-size: 1.4rem;
+  }
+
+  .top-1 h4 {
+    font-size: 1.2rem;
+  }
+
+  .top-img {
+    width: 100%;
+  }
+
+  .top-logo {
+    display: none;
+  }
+
+  .magistre-section {
+    display: flex;
+    justify-content: center;
+  }
+
+  .magistre-girl {
+    width: 100%;
+  }
+
+  .img-box {
+    width: 25%;
+    height: 35%;
+    top: -15%;
+    left: -5%;
+  }
+
+  .insta-post {
+    width: 100%;
+    top: 5%;
+    right: -15%;
+  }
+
+  .img-text {
+    width: 80%;
+    bottom: -8%;
+    left: 10%;
+    padding: 1rem;
+  }
+
+  .img-text span:first-child {
+    font-size: 1.8rem;
+  }
+
+  .img-text span:last-child {
+    font-size: 1.2rem;
+  }
+
+  .feedback-heading {
+    font-size: 2.4rem;
+    text-align: center;
+    line-height: 3.2rem;
+  }
+
+  .feedback-right span {
+    margin-left: 0;
+  }
+
+  .feedback-right span:first-child {
+    font-size: 1.4rem;
+  }
+
+  .feedback-right span:last-child {
+    font-size: 1.2rem;
+  }
+
+  .section-subscribe .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .subscrible {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+
+  .subscrible span {
+    font-size: 1.2rem;
+  }
+
+  .subscrible h1 {
+    font-size: 1.8rem;
+    text-align: center;
+  }
+
+  .mail-box {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .input-mail {
+    width: 70%;
+    font-size: 1.2rem;
+  }
+
+  .subscribe-btn {
+    font-size: 1.2rem;
+    white-space: nowrap;
+    padding: 1.5rem 0.5rem;
+  }
+
+  .add .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 0;
+  }
+
+  footer .container {
+    width: 100%;
+    padding: 0;
+  }
+
+  .footer-box {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .footer-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 4rem;
+  }
+
+  .edu h1 {
+    font-size: 3.2rem;
+  }
+
+  .about-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+
+  .footer-infto {
+    text-align: center;
+  }
+
+  .edu {
+    gap: 2.5rem;
+  }
+
+  .edu img {
+    width: 20%;
+  }
+
+  .footer-links {
+    text-align: center;
+  }
+
+  .footer-links h2 {
+    font-size: 2.2rem;
+    margin-bottom: 1rem;
+  }
+
+  .box {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
+  }
+
+  .box li {
+    font-size: 1.6rem;
+  }
+
+  .magistre-girl {
+    width: ;
+  }
+
+  .copyrights {
+    display: flex;
+    flex-direction: column;
+    border-radius: 0;
+  }
+
+  . .footer-logos {
+    display: flex;
+  }
+
+  .copyrights {
+    gap: 2rem;
+  }
+
+  .copyrights .header-logos {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+  }
+}
